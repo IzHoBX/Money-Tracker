@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="title_new">New</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_options">Options</string>
+    <string-array name="categories">
+        <item>Cooking Ingredients</item>
+        <item>Eating Out</item>
+        <item>Daily Items</item>
+        <item>Online Shopping</item>
+        <item>Self-reward</item>
+        <item>Travel</item>
+        <item>Transportation</item>
+        <item>Misc</item>
+    </string-array>
+</resources>
